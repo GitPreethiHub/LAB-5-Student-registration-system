@@ -14,29 +14,26 @@ b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
 #### Use case diagram:
-![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/46b3bb0e-6d7a-492c-9e2b-6d93fa1b4c64)
-
+![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/fecbff0d-c1da-470b-a0a2-03ca6c1243c7)
 
 #### Sequence diagram:
-![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/5368c96a-e253-4977-b7cc-05c00b682f18)
-
+![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/e913a0e6-081a-4c77-9c9d-dfa1165dfc70)
 
 #### STATE CHART DIAGRAM:
 ![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/dbc8c6a5-3fd1-42a1-8229-18923422fc31)
 
-
 #### CLASS DIAGRAM:
-![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/df780081-2aac-4cbe-b38c-59a28f9568a6)
-
+![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/8440ed5b-fc37-4572-b248-1dab1f27d232)
 
 #### ACTIVITY DIAGRAM:
-Screenshot 2023-09-22 144733
+![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/5d6ccf2b-7167-4669-b18a-582ac51b2990)
 
 #### Communication Diagram:
-Screenshot 2023-09-22 135216
+![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/86c3eb13-55eb-49a0-b019-c6f73bf7ec7f)
 
 #### Package diagram:
-image
+![image](https://github.com/GitPreethiHub/LAB-5-Student-registration-system/assets/119475585/dd3154fd-1fa1-4b74-875b-ce6f865f5ff3)
+
 
 
 
